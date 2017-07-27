@@ -107,6 +107,7 @@ namespace COMP123_S2017_Lesson11B
 
             return topCard;
         }
+        //Added Deal5 method to Deck class
         public Hand Deal5()
         {
             Hand top5 = new Hand();
